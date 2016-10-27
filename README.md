@@ -13,3 +13,7 @@
 8. Push your changes up to your fork `git push origin master`
 9. Navigate to your fork on Github.com and click "Pull requests", then "New pull request"
 10. Enter your First and Last name as the title and click "Create pull request"
+
+
+
+making a change
